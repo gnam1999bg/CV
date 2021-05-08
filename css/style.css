@@ -41,6 +41,9 @@ html {
   background-image: url("../images/Palette.png");
   min-height: 400px;
 }
+.spacing {
+  letter-spacing: 2px;
+}
 
 .w3-wide {
   letter-spacing: 10px;
